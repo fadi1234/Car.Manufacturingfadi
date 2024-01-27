@@ -21,8 +21,4 @@
     <ProjectReference Include="..\Car.Manufacturing.EF\Car.Manufacturing.EF.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
 </Project>
