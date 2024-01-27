@@ -1,0 +1,1 @@
+Below are step-by-step instructions for setting up and running the .NET Core application locally. Before proceeding, ensure you have the necessary tools installed, including .NET Core SDK and a code editor like Visual Studio Code or Visual Studio.
